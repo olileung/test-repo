@@ -5,6 +5,7 @@ GitHub learning playground!
 download SourceTree (https://sourcetreeapp.com)
 
 ## useful commands for git command line
+* **download** new repo by running `git clone` with the .git of the new repo
 * **pull files** - get files and updates from the remote repo by running `git pull`
 * **add files to the staging area** - `git add [FILENAME]` to add individual files, or `git add -p` to add chunks
 * **remove files from the staging area** - `git reset [FILENAME]`
